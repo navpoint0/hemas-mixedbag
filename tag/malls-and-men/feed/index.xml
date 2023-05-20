@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>malls and men Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/malls-and-men/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/malls-and-men/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 27 Jun 2016 05:24:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>malls and men Archives &bull; Mixed Bag</title>
+	<link>/tag/malls-and-men/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Of Malls and Men</title>
+		<link>/of-malls-and-men/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 09 May 2016 00:24:00 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[costco]]></category>
+		<category><![CDATA[forrest gump]]></category>
+		<category><![CDATA[gene kelly]]></category>
+		<category><![CDATA[malls and men]]></category>
+		<category><![CDATA[nonfiction]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2016/05/08/of-malls-and-men/</guid>
+
+					<description><![CDATA[<p>When I pitched this idea of writing about men and shopping to my husband, he sounded very upbeat and said &#8220;Go for it!&#8221; He even came up with this title!... <a href="/of-malls-and-men/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/of-malls-and-men/">Of Malls and Men</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">252</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 39/44 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:54:57 by W3 Total Cache
+-->

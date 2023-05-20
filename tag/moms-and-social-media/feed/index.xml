@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>moms and social media Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/moms-and-social-media/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/moms-and-social-media/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Thu, 04 Jan 2018 03:50:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>moms and social media Archives &bull; Mixed Bag</title>
+	<link>/tag/moms-and-social-media/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Two Seconds of Fame</title>
+		<link>/two-seconds-fame/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 03 Jan 2018 10:58:42 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[fable]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[microprose]]></category>
+		<category><![CDATA[moms and social media]]></category>
+		<category><![CDATA[shortstory]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">/?p=2498</guid>
+
+					<description><![CDATA[<p>Zebra was thirteen and frustrated. The herd&#8217;s ne&#8217;er-do-well tripped over a stone one morning. He limped to the watering hole. Fawns cooed. &#8220;You okay? Zebra&#8217;s chest puffed up. &#8220;Yeah. Kicked a... <a href="/two-seconds-fame/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/two-seconds-fame/">Two Seconds of Fame</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2498</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 44/49 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:34 by W3 Total Cache
+-->

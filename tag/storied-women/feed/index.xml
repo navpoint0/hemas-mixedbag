@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>storied women Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/storied-women/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/storied-women/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Tue, 25 Oct 2016 23:24:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>storied women Archives &bull; Mixed Bag</title>
+	<link>/tag/storied-women/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Little Big Girl</title>
+		<link>/little-big-girl/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2016 23:23:24 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[little girl]]></category>
+		<category><![CDATA[mothers and daughters]]></category>
+		<category><![CDATA[perspective]]></category>
+		<category><![CDATA[storied women]]></category>
+		<guid isPermaLink="false">/?p=1690</guid>
+
+					<description><![CDATA[<p>I remember the days when Mama sang this to me, only to me. My throat was tight when I heard her singing the same song to Alfie, my little brother. He appeared unexpectedly after Mama and Dad went to the hospital one day. I was dropped off at Gram's place. Her house smelled like naphthalene balls and Nilla wafers.</p>
+<p>The post <a rel="nofollow" href="/little-big-girl/">Little Big Girl</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1690</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 39/44 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:54:03 by W3 Total Cache
+-->

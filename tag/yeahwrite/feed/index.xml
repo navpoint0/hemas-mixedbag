@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>yeahwrite Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/yeahwrite/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/yeahwrite/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 01 Oct 2018 02:45:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>yeahwrite Archives &bull; Mixed Bag</title>
+	<link>/tag/yeahwrite/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Monstrous Things</title>
+		<link>/monstrous-things/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2018 07:41:11 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[monsters under the bed]]></category>
+		<category><![CDATA[winner]]></category>
+		<category><![CDATA[writing prompts]]></category>
+		<category><![CDATA[yeahwrite]]></category>
+		<guid isPermaLink="false">/?p=2871</guid>
+
+					<description><![CDATA[<p>It was the right time to leave. I would miss the savory taste of Amira&#8217;s screams on my tongue and the comforting way they filled my belly. I didn&#8217;t want... <a href="/monstrous-things/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/monstrous-things/">Monstrous Things</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2871</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 43/48 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:50:07 by W3 Total Cache
+-->

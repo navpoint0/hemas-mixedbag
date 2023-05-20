@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>binary Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/binary/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/binary/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 24 Sep 2018 03:02:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>binary Archives &bull; Mixed Bag</title>
+	<link>/tag/binary/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Purgatory in Binary</title>
+		<link>/purgatory-in-binary/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 19 Sep 2018 10:24:28 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[binary]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[purgatory]]></category>
+		<category><![CDATA[winner]]></category>
+		<guid isPermaLink="false">/?p=2854</guid>
+
+					<description><![CDATA[<p>Garrett wasn&#8217;t what Susan expected. She usually went for the intellectuals, the bankers or the attorneys. You know, the ones who post professional head shots even on online dating sites.... <a href="/purgatory-in-binary/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/purgatory-in-binary/">Purgatory in Binary</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2854</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 43/60 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/14 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:50:07 by W3 Total Cache
+-->

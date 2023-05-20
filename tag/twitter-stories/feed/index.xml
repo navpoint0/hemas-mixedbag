@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>twitter stories Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/twitter-stories/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/twitter-stories/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 23 Feb 2018 05:37:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>twitter stories Archives &bull; Mixed Bag</title>
+	<link>/tag/twitter-stories/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>When Life gives you Lemons</title>
+		<link>/life-gives-lemons/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2018 05:37:41 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[#vss365]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[lemon]]></category>
+		<category><![CDATA[microfiction. very short story]]></category>
+		<category><![CDATA[twitter stories]]></category>
+		<category><![CDATA[when life gives you lemons]]></category>
+		<guid isPermaLink="false">/?p=2662</guid>
+
+					<description><![CDATA[<p>On the next full moon night, cut a lemon in half. Sprinkle some turmeric and chant the magic words I've taught you.</p>
+<p>The post <a rel="nofollow" href="/life-gives-lemons/">When Life gives you Lemons</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2662</post-id>	</item>
+		<item>
+		<title>Hundred</title>
+		<link>/hundred/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2018 14:43:02 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[#vss365]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[twitter fiction]]></category>
+		<category><![CDATA[twitter stories]]></category>
+		<guid isPermaLink="false">/?p=2593</guid>
+
+					<description><![CDATA[<p>In response to today&#8217;s #vss365 prompt &#8211; 100, here&#8217;s my Very Short Story. Humans in shackles bowed to the Director. &#8220;What have these flesh bags dug up?&#8221; He asked an... <a href="/hundred/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/hundred/">Hundred</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2593</post-id>	</item>
+		<item>
+		<title>Missed Train, Unmissed Connection</title>
+		<link>/missed-train-unmissed-connection/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2018 02:22:14 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[#vss365]]></category>
+		<category><![CDATA[fair]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[fiction prompts]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[twitter stories]]></category>
+		<category><![CDATA[very short stories]]></category>
+		<guid isPermaLink="false">/?p=2581</guid>
+
+					<description><![CDATA[<p>Sorry about the crappy title. I&#8217;ve been nursing a sick, clingy child for days now. So exhausted. Anyway, I&#8217;d been coming across these tiny stories on Twitter lately with the... <a href="/missed-train-unmissed-connection/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/missed-train-unmissed-connection/">Missed Train, Unmissed Connection</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2581</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 42/111 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/20 queries in 0.009 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:29 by W3 Total Cache
+-->

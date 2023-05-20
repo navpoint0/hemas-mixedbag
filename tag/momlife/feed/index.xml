@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>momlife Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/momlife/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/momlife/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Wed, 20 May 2020 13:33:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>momlife Archives &bull; Mixed Bag</title>
+	<link>/tag/momlife/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Questions I wanted to ask on Quora, but didn&#8217;t</title>
+		<link>/questions-i-wanted-to-ask-on-quora-but-didnt/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 20 May 2020 13:23:37 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[aging]]></category>
+		<category><![CDATA[creative nonfiction]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[middle age]]></category>
+		<category><![CDATA[momlife]]></category>
+		<category><![CDATA[parenting]]></category>
+		<category><![CDATA[personal essay]]></category>
+		<category><![CDATA[quora]]></category>
+		<guid isPermaLink="false">/?p=3444</guid>
+
+					<description><![CDATA[<p>Questions I wanted to ask on Quora but didn't</p>
+<p>The post <a rel="nofollow" href="/questions-i-wanted-to-ask-on-quora-but-didnt/">Questions I wanted to ask on Quora, but didn&#8217;t</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3444</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 41/46 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:52:21 by W3 Total Cache
+-->

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>poison Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/poison/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/poison/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sat, 10 Feb 2018 15:19:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>poison Archives &bull; Mixed Bag</title>
+	<link>/tag/poison/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>United Forever</title>
+		<link>/united-forever/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sat, 10 Feb 2018 15:14:23 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[#vss365]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[microstories]]></category>
+		<category><![CDATA[poison]]></category>
+		<category><![CDATA[writing prompts]]></category>
+		<guid isPermaLink="false">/?p=2602</guid>
+
+					<description><![CDATA[<p>This story was inspired (loosely) by a monument dedicated to the Moorish poet Ibn Zaydun and his lady love, Princess Vallada, in Cordoba, Spain</p>
+<p>The post <a rel="nofollow" href="/united-forever/">United Forever</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2602</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 45/56 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/11 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:33 by W3 Total Cache
+-->

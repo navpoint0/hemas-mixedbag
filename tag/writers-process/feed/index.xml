@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>writers process Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/writers-process/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/writers-process/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Wed, 05 Oct 2016 22:06:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>writers process Archives &bull; Mixed Bag</title>
+	<link>/tag/writers-process/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Inside a Writer&#8217;s Mind</title>
+		<link>/inside-a-writers-mind/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2016 22:06:53 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[muse]]></category>
+		<category><![CDATA[philz coffee]]></category>
+		<category><![CDATA[san francisco]]></category>
+		<category><![CDATA[writer's life]]></category>
+		<category><![CDATA[writers process]]></category>
+		<category><![CDATA[writing]]></category>
+		<category><![CDATA[writing prompts]]></category>
+		<guid isPermaLink="false">/?p=1633</guid>
+
+					<description><![CDATA[<p>There's an anger, a restlessness about you. You're carrying scars from your childhood, perhaps. I see you in pigtails laying flowers on your mother's grave on a winter morning. You're wondering to yourself why Dad is crying and where Mom went. Or did your dad leave you when you were a child? Mom cried every time you asked her when dad would be back and you didn't know why.</p>
+<p>The post <a rel="nofollow" href="/inside-a-writers-mind/">Inside a Writer&#8217;s Mind</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1633</post-id>	</item>
+		<item>
+		<title>To Write or not to Write</title>
+		<link>/write-not-write/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2016 22:19:57 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[edge]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[photo challenge]]></category>
+		<category><![CDATA[procrastinating]]></category>
+		<category><![CDATA[reality]]></category>
+		<category><![CDATA[wordpress photo challenge]]></category>
+		<category><![CDATA[writers process]]></category>
+		<guid isPermaLink="false">/?p=1558</guid>
+
+					<description><![CDATA[<p>My writing process always begins with sitting outside with my notebook and procrastinating! The photo denotes the edge of reality and fiction I&#8217;m sitting on. This photo is in response to WordPress&#8217;s... <a href="/write-not-write/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/write-not-write/">To Write or not to Write</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1558</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 44/83 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/14 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:52:52 by W3 Total Cache
+-->

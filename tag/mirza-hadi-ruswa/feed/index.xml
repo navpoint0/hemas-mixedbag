@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>mirza hadi ruswa Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/mirza-hadi-ruswa/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/mirza-hadi-ruswa/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:15:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>mirza hadi ruswa Archives &bull; Mixed Bag</title>
+	<link>/tag/mirza-hadi-ruswa/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>My Reading Shelfie &#8211; Dec 2015</title>
+		<link>/reading-shelfie-dec-2015/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2015 07:26:00 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[brain on fire]]></category>
+		<category><![CDATA[cheryl strayed]]></category>
+		<category><![CDATA[mirza hadi ruswa]]></category>
+		<category><![CDATA[susannah cahalan]]></category>
+		<category><![CDATA[the last mughal]]></category>
+		<category><![CDATA[the nomad learns morality]]></category>
+		<category><![CDATA[tomichan matheikal]]></category>
+		<category><![CDATA[umrao jan ada]]></category>
+		<category><![CDATA[wild]]></category>
+		<category><![CDATA[william dalrymple]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/12/14/reading-shelfie-dec-2015/</guid>
+
+					<description><![CDATA[<p>And then there&#8217;s one more &#8211; a pdf book. Two history books, one engaging story about a great personal victory and one with invaluable life lessons intertwined with mythology. It&#8217;s... <a href="/reading-shelfie-dec-2015/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/reading-shelfie-dec-2015/">My Reading Shelfie &#8211; Dec 2015</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">292</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 44/49 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:55:29 by W3 Total Cache
+-->

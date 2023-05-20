@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>open house Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/open-house/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/open-house/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 19 Sep 2016 16:38:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>open house Archives &bull; Mixed Bag</title>
+	<link>/tag/open-house/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Open House</title>
+		<link>/open-house/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 19 Sep 2016 16:38:34 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[#microblogmondays]]></category>
+		<category><![CDATA[curiouser and curiouser]]></category>
+		<category><![CDATA[little time traveler]]></category>
+		<category><![CDATA[nonfiction]]></category>
+		<category><![CDATA[open house]]></category>
+		<category><![CDATA[realtor]]></category>
+		<category><![CDATA[toddlers]]></category>
+		<guid isPermaLink="false">/?p=1579</guid>
+
+					<description><![CDATA[<p>Later that evening, my toddler was on my phone. I usually give her my phone with the camera on, just to keep her busy while I'm getting dinner ready. I went through the pictures later to delete the 50+ pictures of her toes she usually takes.</p>
+<p>The post <a rel="nofollow" href="/open-house/">Open House</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1579</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 40/45 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:54:17 by W3 Total Cache
+-->

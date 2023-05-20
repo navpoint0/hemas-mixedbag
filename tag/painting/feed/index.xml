@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>painting Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/painting/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/painting/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sat, 04 Jun 2016 20:40:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>painting Archives &bull; Mixed Bag</title>
+	<link>/tag/painting/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Paint it Red!</title>
+		<link>/short-fiction-paint-it-red/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 11 May 2016 22:38:00 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[blue]]></category>
+		<category><![CDATA[colors]]></category>
+		<category><![CDATA[flash fiction. #amwriting]]></category>
+		<category><![CDATA[michelangelo]]></category>
+		<category><![CDATA[motherhood]]></category>
+		<category><![CDATA[paint it red]]></category>
+		<category><![CDATA[painting]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[regal purple]]></category>
+		<category><![CDATA[short fiction]]></category>
+		<category><![CDATA[sistine chapel]]></category>
+		<category><![CDATA[toddlers]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2016/05/11/short-fiction-paint-it-red/</guid>
+
+					<description><![CDATA[<p>I looked at the brush in front of me. Did I really have to use it? Colors were calling out to me, begging to be experienced, to be felt. I... <a href="/short-fiction-paint-it-red/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/short-fiction-paint-it-red/">Paint it Red!</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">251</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 45/50 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:52:35 by W3 Total Cache
+-->

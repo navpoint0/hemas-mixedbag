@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>sequel Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/sequel/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/sequel/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 05 Aug 2016 03:27:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>sequel Archives &bull; Mixed Bag</title>
+	<link>/tag/sequel/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Madame Ripple&#8217;s Timepieces &#8211; Part II</title>
+		<link>/madame-ripples-timepieces-part-ii/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 27 Jul 2016 19:20:16 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[deutsches rotes kreuz]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[german concentration camp]]></category>
+		<category><![CDATA[german red cross]]></category>
+		<category><![CDATA[ihre papiere bitte]]></category>
+		<category><![CDATA[love story]]></category>
+		<category><![CDATA[sci-fi]]></category>
+		<category><![CDATA[sequel]]></category>
+		<category><![CDATA[time travel]]></category>
+		<category><![CDATA[winner]]></category>
+		<category><![CDATA[WWII]]></category>
+		<guid isPermaLink="false">/?p=1369</guid>
+
+					<description><![CDATA[<p>Another guard sits in his high tower like an angry demigod looking over his creation. A few women and children in their blue and white striped uniforms and shaved heads stare vacantly at us. Their eyes are like little broken windows. These children have probably seen more horrors in their tiny lifetimes than I've seen in my entire life. </p>
+<p>The post <a rel="nofollow" href="/madame-ripples-timepieces-part-ii/">Madame Ripple&#8217;s Timepieces &#8211; Part II</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1369</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 46/51 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:54:39 by W3 Total Cache
+-->

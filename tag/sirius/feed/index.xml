@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>sirius Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/sirius/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/sirius/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sun, 31 Jul 2016 16:14:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>sirius Archives &bull; Mixed Bag</title>
+	<link>/tag/sirius/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Happy Birthday to the Boy who Lived!</title>
+		<link>/happy-birthday-to-boy-who-lived/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2015 13:30:00 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bellatrix lestrange]]></category>
+		<category><![CDATA[dobby]]></category>
+		<category><![CDATA[expecto patronum]]></category>
+		<category><![CDATA[fred]]></category>
+		<category><![CDATA[george]]></category>
+		<category><![CDATA[half blood prince]]></category>
+		<category><![CDATA[harry potter birthday]]></category>
+		<category><![CDATA[hermione]]></category>
+		<category><![CDATA[jkrowling]]></category>
+		<category><![CDATA[marauder's map]]></category>
+		<category><![CDATA[polyjuice potion]]></category>
+		<category><![CDATA[prisoner of azkaban]]></category>
+		<category><![CDATA[remus lupin]]></category>
+		<category><![CDATA[sirius]]></category>
+		<category><![CDATA[tonks]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/08/01/happy-birthday-to-boy-who-lived/</guid>
+
+					<description><![CDATA[<p>It's July 31! All Harry Potter fans, like yours truly, know what that means. It's Harry's birthday! Also, JK Rowling's birthday :) So Happy Happy Birthday to one of my favorite authors and one of my favorite fictional characters!</p>
+<p>The post <a rel="nofollow" href="/happy-birthday-to-boy-who-lived/">Happy Birthday to the Boy who Lived!</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">322</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 48/53 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:57:01 by W3 Total Cache
+-->

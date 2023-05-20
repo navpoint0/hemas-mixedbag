@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>halloween Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/halloween/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/halloween/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Thu, 04 Oct 2018 01:47:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>halloween Archives &bull; Mixed Bag</title>
+	<link>/tag/halloween/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Bailey&#8217;s Birthday</title>
+		<link>/baileys-birthday/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2018 01:37:09 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[ghost stories]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[paranormal]]></category>
+		<guid isPermaLink="false">/?p=2900</guid>
+
+					<description><![CDATA[<p>I slumped on the couch after putting Bailey to bed. A few minutes later, I heard her laughing. She was sitting up, staring at the wall. &#8220;You okay, baby?&#8221; I asked.... <a href="/baileys-birthday/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/baileys-birthday/">Bailey&#8217;s Birthday</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2900</post-id>	</item>
+		<item>
+		<title>Hello Muggles!</title>
+		<link>/hello-muggles/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sat, 24 Oct 2015 06:48:00 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[avada kedavra]]></category>
+		<category><![CDATA[buckbeak]]></category>
+		<category><![CDATA[dumbledora]]></category>
+		<category><![CDATA[dwight schrute]]></category>
+		<category><![CDATA[grumpy cat]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[harry potter]]></category>
+		<category><![CDATA[hermione]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[quidditch puns]]></category>
+		<category><![CDATA[the explorer]]></category>
+		<category><![CDATA[time turner]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/10/23/hello-muggles/</guid>
+
+					<description><![CDATA[<p>Happy Friday, folks! So, Halloween is fast approaching and the Internet is abuzz with costume ideas. M wants to be a &#8216;book reading fairy princess&#8217; but someday I&#8217;m sure I... <a href="/hello-muggles/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/hello-muggles/">Hello Muggles!</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">304</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 27/126 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/21 queries in 0.008 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:02 by W3 Total Cache
+-->

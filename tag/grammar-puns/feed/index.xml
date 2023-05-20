@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>grammar puns Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/grammar-puns/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/grammar-puns/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 19 Sep 2016 17:03:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>grammar puns Archives &bull; Mixed Bag</title>
+	<link>/tag/grammar-puns/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Grammar Nerds, Unite!</title>
+		<link>/grammar-nerds-unite/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2015 07:02:00 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[grammar puns]]></category>
+		<category><![CDATA[humour]]></category>
+		<category><![CDATA[writers]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/10/06/grammar-nerds-unite/</guid>
+
+					<description><![CDATA[<p>Five grammar jokes/puns which made me chuckle. Enjoy! &#160; 1. This grammar Nazi pirate! 2. Let&#8217;s eat Grandpa!     Let&#8217;s eat, Grandpa! Don&#8217;t be a psycho! Use Commas! 3.... <a href="/grammar-nerds-unite/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/grammar-nerds-unite/">Grammar Nerds, Unite!</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">308</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 24/66 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/17 queries in 0.006 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:56:20 by W3 Total Cache
+-->

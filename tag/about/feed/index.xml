@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>about Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/about/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 23:06:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>about Archives &bull; Mixed Bag</title>
+	<link>/tag/about/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Hi!</title>
+		<link>/hi/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2014 14:46:00 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[about]]></category>
+		<category><![CDATA[list]]></category>
+		<category><![CDATA[me]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2014/11/24/hi/</guid>
+
+					<description><![CDATA[<p>If you&#8217;ve read the &#8216;About Me&#8217; section and you want to know more, you&#8217;re in luck! I am a complete list-aholic. If an article is titled &#8217;10 things you should... <a href="/hi/">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="/hi/">Hi!</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">358</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 36/49 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/11 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:23 by W3 Total Cache
+-->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>#personalessay Archives &bull; Mixed Bag</title>
+	<atom:link href="/tag/personalessay/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/personalessay/</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Wed, 19 Feb 2020 10:20:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>#personalessay Archives &bull; Mixed Bag</title>
+	<link>/tag/personalessay/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>On My Way to Somewhere</title>
+		<link>/on-my-way-to-somewhere/</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 10:04:15 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[#personalessay]]></category>
+		<category><![CDATA[braided essay]]></category>
+		<category><![CDATA[creative nonfiction]]></category>
+		<category><![CDATA[mosaic]]></category>
+		<category><![CDATA[nonfiction]]></category>
+		<guid isPermaLink="false">/?p=3281</guid>
+
+					<description><![CDATA[<p>I've tried this experimental form for a personal essay - the mosaic or the braided essay. I've only used it for fiction before.</p>
+<p>The post <a rel="nofollow" href="/on-my-way-to-somewhere/">On My Way to Somewhere</a> appeared first on <a rel="nofollow" href="/">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3281</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 26/71 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/17 queries in 0.006 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-19 22:53:14 by W3 Total Cache
+-->
