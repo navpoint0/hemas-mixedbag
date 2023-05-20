@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>cheesecake Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:50:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>cheesecake Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>No Bake Mango Cheesecake</title>
+		<link>./../../../no-bake-mango-cheesecake/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2015 06:57:00 +0000</pubDate>
+				<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[cheesecake]]></category>
+		<category><![CDATA[digestive biscuits]]></category>
+		<category><![CDATA[eggless]]></category>
+		<category><![CDATA[gelatin]]></category>
+		<category><![CDATA[mango]]></category>
+		<category><![CDATA[mango lemon glaze]]></category>
+		<category><![CDATA[mango puree]]></category>
+		<category><![CDATA[no bake]]></category>
+		<category><![CDATA[recipes]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/09/03/no-bake-mango-cheesecake/</guid>
+
+					<description><![CDATA[<p>September 1st, the day I owe my entire existence to. It is my dear mother&#8217;s birthday. I don&#8217;t think there are words to describe how much she (and my dad... <a href="./../../../no-bake-mango-cheesecake/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../no-bake-mango-cheesecake/index.html">No Bake Mango Cheesecake</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">316</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 25/88 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/17 queries in 0.007 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:45:58 by W3 Total Cache
+-->

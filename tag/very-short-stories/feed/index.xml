@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>very short stories Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 05 Feb 2018 02:22:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>very short stories Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Missed Train, Unmissed Connection</title>
+		<link>./../../../missed-train-unmissed-connection/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2018 02:22:14 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[#vss365]]></category>
+		<category><![CDATA[fair]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[fiction prompts]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[romance]]></category>
+		<category><![CDATA[twitter stories]]></category>
+		<category><![CDATA[very short stories]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=2581</guid>
+
+					<description><![CDATA[<p>Sorry about the crappy title. I&#8217;ve been nursing a sick, clingy child for days now. So exhausted. Anyway, I&#8217;d been coming across these tiny stories on Twitter lately with the... <a href="./../../../missed-train-unmissed-connection/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../missed-train-unmissed-connection/index.html">Missed Train, Unmissed Connection</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2581</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 45/50 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:47:27 by W3 Total Cache
+-->

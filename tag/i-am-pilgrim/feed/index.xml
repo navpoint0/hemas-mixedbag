@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>i am pilgrim Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:11:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>i am pilgrim Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>And Then There Were More!</title>
+		<link>./../../../and-then-there-were-more/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Thu, 21 Jan 2016 07:55:00 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[#amreading]]></category>
+		<category><![CDATA[aristotle and dante]]></category>
+		<category><![CDATA[benjamin alire saenz]]></category>
+		<category><![CDATA[claire north]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[harry august]]></category>
+		<category><![CDATA[i am pilgrim]]></category>
+		<category><![CDATA[jessica knoll]]></category>
+		<category><![CDATA[library haul]]></category>
+		<category><![CDATA[luckiest girl alive]]></category>
+		<category><![CDATA[secrets of the universe]]></category>
+		<category><![CDATA[terry hayes]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2016/01/21/and-then-there-were-more/</guid>
+
+					<description><![CDATA[<p>The library is a perilous place. For compulsive book-hoarders like me. It&#8217;s even more dangerous because my library also sells books at a really really low price. So, I have... <a href="./../../../and-then-there-were-more/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../and-then-there-were-more/index.html">And Then There Were More!</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">282</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 45/51 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:44:20 by W3 Total Cache
+-->

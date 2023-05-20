@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Maharashtra Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sun, 15 Jan 2017 21:39:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>Maharashtra Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Pune, my love, my home &#8211; A Photo Essay</title>
+		<link>./../../../pune-home-photo-essay/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2017 19:05:02 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[home]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Maharashtra]]></category>
+		<category><![CDATA[Mumbai-Pune expressway]]></category>
+		<category><![CDATA[nostalgia]]></category>
+		<category><![CDATA[Pune]]></category>
+		<category><![CDATA[rasta peth]]></category>
+		<category><![CDATA[Raste Wada]]></category>
+		<category><![CDATA[Shaniwar Wada]]></category>
+		<category><![CDATA[sugarcane juice]]></category>
+		<category><![CDATA[travel]]></category>
+		<category><![CDATA[tulsi baug]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1790</guid>
+
+					<description><![CDATA[<p>I&#8217;ve probably said this before, but I&#8217;ll say it again. I Love Pune. I might be a tad biased, but that city is everything. Okay. I&#8217;m completely biased. This is the city... <a href="./../../../pune-home-photo-essay/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../pune-home-photo-essay/index.html">Pune, my love, my home &#8211; A Photo Essay</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1790</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 50/55 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:41:12 by W3 Total Cache
+-->

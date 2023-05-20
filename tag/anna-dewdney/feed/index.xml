@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Anna dewdney Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 27 Jun 2016 05:24:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>Anna dewdney Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>I don&#8217;t want to go to School!</title>
+		<link>./../../../i-dont-want-to-go-to-schoo/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2015 08:31:00 +0000</pubDate>
+				<category><![CDATA[Parenting]]></category>
+		<category><![CDATA[Anna dewdney]]></category>
+		<category><![CDATA[audrey penn]]></category>
+		<category><![CDATA[goodbye rituals]]></category>
+		<category><![CDATA[llama llama misses mama]]></category>
+		<category><![CDATA[llama llama red pajama]]></category>
+		<category><![CDATA[motherhood]]></category>
+		<category><![CDATA[the kissing hand]]></category>
+		<category><![CDATA[tips and books to ease separation anxiety]]></category>
+		<category><![CDATA[toddlers]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/11/05/i-dont-want-to-go-to-schoo/</guid>
+
+					<description><![CDATA[<p>The last couple of months have been a difficult time for my toddler, M and me. She started preschool in September and for the first time in her teeny-tiny life,... <a href="./../../../i-dont-want-to-go-to-schoo/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../i-dont-want-to-go-to-schoo/index.html">I don&#8217;t want to go to School!</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">301</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 25/88 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/17 queries in 0.007 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:45:15 by W3 Total Cache
+-->

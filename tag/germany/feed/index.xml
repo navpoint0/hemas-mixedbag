@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Germany Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sat, 18 Jun 2016 22:59:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>Germany Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>All the Light We Cannot See</title>
+		<link>./../../../light-cannot-see/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sat, 18 Jun 2016 22:31:23 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[all the light we cannot see]]></category>
+		<category><![CDATA[anthony doerr]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[historical fiction]]></category>
+		<category><![CDATA[nazi]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[saint malo]]></category>
+		<category><![CDATA[WWII]]></category>
+		<category><![CDATA[Zollverein]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1084</guid>
+
+					<description><![CDATA[<p>This book took me a little getting used to. Like an engine sputtering to life, the characters and events started making sense after the first few chapters. The imagery is so rich, you have to adjust your eyes to the brightness before you can see it. </p>
+<p>The post <a rel="nofollow" href="./../../../light-cannot-see/index.html">All the Light We Cannot See</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1084</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 43/49 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:39:28 by W3 Total Cache
+-->

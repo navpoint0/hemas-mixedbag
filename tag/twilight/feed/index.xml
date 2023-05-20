@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>twilight Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:12:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>twilight Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Bout of Books &#8211; My first read-a-thon!</title>
+		<link>./../../../bout-of-books-my-first-read-thon/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2016 08:27:00 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[bout of books]]></category>
+		<category><![CDATA[kristin stewart]]></category>
+		<category><![CDATA[read-a-thon]]></category>
+		<category><![CDATA[silly sally]]></category>
+		<category><![CDATA[the scarlet letter]]></category>
+		<category><![CDATA[time traveler's wife]]></category>
+		<category><![CDATA[twilight]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2016/01/07/bout-of-books-my-first-read-thon/</guid>
+
+					<description><![CDATA[<p>The Bout of Books read-a-thon is organized by Amanda @ On a Book Bender and Kelly @ Reading the Paranormal. It is a week long read-a-thon that begins 12:01am Monday,... <a href="./../../../bout-of-books-my-first-read-thon/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../bout-of-books-my-first-read-thon/index.html">Bout of Books &#8211; My first read-a-thon!</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">286</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 40/46 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:44:30 by W3 Total Cache
+-->

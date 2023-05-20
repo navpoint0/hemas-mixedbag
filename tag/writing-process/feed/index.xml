@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>writing process Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sun, 07 Aug 2016 16:19:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>writing process Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>I Promise</title>
+		<link>./../../../i-promise/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2016 16:19:48 +0000</pubDate>
+				<category><![CDATA[Everything Else]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[barathon]]></category>
+		<category><![CDATA[empty promises]]></category>
+		<category><![CDATA[internal monologue]]></category>
+		<category><![CDATA[writer's life]]></category>
+		<category><![CDATA[writers]]></category>
+		<category><![CDATA[writers block]]></category>
+		<category><![CDATA[writing process]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1438</guid>
+
+					<description><![CDATA[<p>Muses and ideas are fickle and stubborn. They don't care if you have a deadline or a writing marathon. They show up whenever they want to.</p>
+<p>The post <a rel="nofollow" href="./../../../i-promise/index.html">I Promise</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1438</post-id>	</item>
+		<item>
+		<title>The Process</title>
+		<link>./../../../writing/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2016 23:53:33 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[fleeting thoughts]]></category>
+		<category><![CDATA[short fiction]]></category>
+		<category><![CDATA[writers]]></category>
+		<category><![CDATA[writing process]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1164</guid>
+
+					<description><![CDATA[<p>A thought, an idea grazes my brain. She's touching me, but barely. She plays coy. I try to catch her, but she's mercury.</p>
+<p>The post <a rel="nofollow" href="./../../../writing/index.html">The Process</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1164</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 55/60 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:41:57 by W3 Total Cache
+-->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>carmel Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Mon, 27 Jun 2016 05:24:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>carmel Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Trip Journal &#8211; Highway One</title>
+		<link>./../../../trip-journal-highway-one/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 05:54:00 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[big sur]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[carmel]]></category>
+		<category><![CDATA[emu]]></category>
+		<category><![CDATA[highway one]]></category>
+		<category><![CDATA[mission]]></category>
+		<category><![CDATA[ostrich farm]]></category>
+		<category><![CDATA[pfeiffer beach]]></category>
+		<category><![CDATA[pismo beach]]></category>
+		<category><![CDATA[point lobos]]></category>
+		<category><![CDATA[santa barbara]]></category>
+		<category><![CDATA[solvang]]></category>
+		<category><![CDATA[travel]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/06/08/trip-journal-highway-one/</guid>
+
+					<description><![CDATA[<p>On our quest for travel gems, we often forget about the priceless nuggets in our own backyard! We had a few days off and we began thinking about places to... <a href="./../../../trip-journal-highway-one/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../trip-journal-highway-one/index.html">Trip Journal &#8211; Highway One</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">332</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 46/51 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:46:38 by W3 Total Cache
+-->

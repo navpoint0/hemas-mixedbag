@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>coffee Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 23:03:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>coffee Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Love is in the air!</title>
+		<link>./../../../love-is-in-air/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2015 14:47:00 +0000</pubDate>
+				<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[chocolate]]></category>
+		<category><![CDATA[coffee]]></category>
+		<category><![CDATA[desserts]]></category>
+		<category><![CDATA[tiramisu]]></category>
+		<category><![CDATA[valentine's day]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/02/14/love-is-in-air/</guid>
+
+					<description><![CDATA[<p>Happy Valentine&#8217;s day, everyone! I love this day, whether I get flowers or not 🙂 For the last few years, I&#8217;ve been making desserts for S, my husband. Last year,... <a href="./../../../love-is-in-air/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../love-is-in-air/index.html">Love is in the air!</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">346</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 38/43 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.005 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:47:16 by W3 Total Cache
+-->

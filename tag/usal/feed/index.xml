@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>usal Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:53:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>usal Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Sprouted Moong Curry a.k.a. Moogachi Usal</title>
+		<link>./../../../sprouted-moong-curry-aka-moogachi-usa/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2015 03:34:00 +0000</pubDate>
+				<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[curry]]></category>
+		<category><![CDATA[goda masala]]></category>
+		<category><![CDATA[maharashtrian dishes]]></category>
+		<category><![CDATA[moong sprouts]]></category>
+		<category><![CDATA[recipes]]></category>
+		<category><![CDATA[sprouts]]></category>
+		<category><![CDATA[usal]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/07/04/sprouted-moong-curry-aka-moogachi-usa/</guid>
+
+					<description><![CDATA[<p>This was my dinner last night. Sprouted Moong curry or Moogachi Usal, some raw onion slices, hot phulkas and pure ghee (sajook toop in Marathi &#8211; I just love saying... <a href="./../../../sprouted-moong-curry-aka-moogachi-usa/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../sprouted-moong-curry-aka-moogachi-usa/index.html">Sprouted Moong Curry a.k.a. Moogachi Usal</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">327</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 40/45 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:46:31 by W3 Total Cache
+-->

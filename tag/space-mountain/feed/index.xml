@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>space mountain Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Thu, 30 Mar 2017 01:12:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>space mountain Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>Space Mountain</title>
+		<link>./../../../space-mountain/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 22:47:06 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[#amwriting]]></category>
+		<category><![CDATA[disneyland]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[flash fiction]]></category>
+		<category><![CDATA[short story]]></category>
+		<category><![CDATA[space mountain]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1908</guid>
+
+					<description><![CDATA[<p>Tiny droplets of vapor collected inside the oxygen mask every time he exhaled. A thin layer of crust had formed on his eyelashes, like cobwebs in an abandoned house. Clear fluid dripped from an IV line in slow, almost hypnotic droplets. The room was quiet except for the staccato beeping of the heart monitor and the whooshing, Darth Vader-ish noise of the ventilator. </p>
+<p>The post <a rel="nofollow" href="./../../../space-mountain/index.html">Space Mountain</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1908</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 39/44 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:41:49 by W3 Total Cache
+-->

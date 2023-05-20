@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lutz Heck Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Sat, 04 Jun 2016 20:58:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>Lutz Heck Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>The Zookeeper&#8217;s Wife by Diane Ackerman</title>
+		<link>./../../../book-review-zookeepers-wife-by-diane/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 07:25:00 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Antonina]]></category>
+		<category><![CDATA[auroch]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[diane ackerman]]></category>
+		<category><![CDATA[Jan]]></category>
+		<category><![CDATA[Lutz Heck]]></category>
+		<category><![CDATA[Nazis]]></category>
+		<category><![CDATA[Poland]]></category>
+		<category><![CDATA[tarpan]]></category>
+		<category><![CDATA[the zookeeper's wife]]></category>
+		<category><![CDATA[Warsaw]]></category>
+		<category><![CDATA[World war II]]></category>
+		<category><![CDATA[Zabinski]]></category>
+		<category><![CDATA[Zoo]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2015/10/16/book-review-zookeepers-wife-by-diane/</guid>
+
+					<description><![CDATA[<p>The Zookeeper&#8217;s Wife by Diane Ackerman is a real-life war story. This is the story of Jan and Antonina Zabinski, who ran the Warsaw Zoo in the 1930s. When Germany... <a href="./../../../book-review-zookeepers-wife-by-diane/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../book-review-zookeepers-wife-by-diane/index.html">The Zookeeper&#8217;s Wife by Diane Ackerman</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">306</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 46/50 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/9 queries in 0.004 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:45:34 by W3 Total Cache
+-->

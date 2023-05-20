@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>42 word story Archives &bull; Mixed Bag</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>For All your Fiction and Miscellaneous Reading Needs</description>
+	<lastBuildDate>Fri, 27 May 2016 22:06:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.1</generator>
+
+<image>
+	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
+	<title>42 word story Archives &bull; Mixed Bag</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">111981179</site>	<item>
+		<title>The Pyramid</title>
+		<link>./../../../the-pyramid/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Thu, 24 Mar 2016 00:49:00 +0000</pubDate>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[42 word story]]></category>
+		<category><![CDATA[maslow's need hierarchy]]></category>
+		<category><![CDATA[microstory]]></category>
+		<category><![CDATA[writing prompt]]></category>
+		<guid isPermaLink="false">http://hemas-mixedbag.com/2016/03/23/the-pyramid/</guid>
+
+					<description><![CDATA[<p>A story in 42 words in response to Yeah Write&#8217;s weekly microstory challenge. The prompt was &#8216;What is at the top?&#8221; Let me know what you think of it! Food,... <a href="./../../../the-pyramid/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../the-pyramid/index.html">The Pyramid</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">264</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 27/67 objects using memcached
+Page Caching using memcached 
+Lazy Loading (feed)
+Minified using disk
+Database Caching 3/17 queries in 0.009 seconds using disk
+
+Served from: www.hemas-mixedbag.com @ 2023-05-20 08:44:16 by W3 Total Cache
+-->
