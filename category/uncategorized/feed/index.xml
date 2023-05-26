@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
@@ -97,21 +97,6 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3786</post-id>	</item>
-		<item>
-		<title>test</title>
-		<link>./../../../test/index.html</link>
-		
-		<dc:creator><![CDATA[mixedbag]]></dc:creator>
-		<pubDate>Wed, 06 Jul 2022 06:03:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=3776</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="./../../../test/index.html">test</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
-]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3776</post-id>	</item>
 		<item>
 		<title>Manifesting My Novel</title>
 		<link>./../../../manifesting-my-novel/index.html</link>
@@ -223,11 +208,11 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 146/159 objects using memcached
+Object Caching 134/143 objects using memcached
 Page Caching using memcached 
 Lazy Loading (feed)
 Minified using disk
-Database Caching 3/14 queries in 0.010 seconds using disk
+Database Caching 3/11 queries in 0.004 seconds using disk
 
-Served from: www.hemas-mixedbag.com @ 2023-05-20 08:25:26 by W3 Total Cache
+Served from: www.hemas-mixedbag.com @ 2023-05-26 13:06:36 by W3 Total Cache
 -->

@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
@@ -119,21 +119,6 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3786</post-id>	</item>
-		<item>
-		<title>test</title>
-		<link>./../../../test/index.html</link>
-		
-		<dc:creator><![CDATA[mixedbag]]></dc:creator>
-		<pubDate>Wed, 06 Jul 2022 06:03:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=3776</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="./../../../test/index.html">test</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
-]]></description>
-		
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">3776</post-id>	</item>
 		<item>
 		<title>2021 Publications</title>
 		<link>./../../../2021-publications/index.html</link>
@@ -243,17 +228,38 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">3591</post-id>	</item>
+		<item>
+		<title>I&#8217;m a Pushcart Prize nominee!</title>
+		<link>./../../../im-a-pushcart-prize-nominee/index.html</link>
+		
+		<dc:creator><![CDATA[mixedbag]]></dc:creator>
+		<pubDate>Sun, 03 Jan 2021 03:31:33 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[amwriting]]></category>
+		<category><![CDATA[flashfiction]]></category>
+		<category><![CDATA[microfiction]]></category>
+		<category><![CDATA[nominee]]></category>
+		<category><![CDATA[pushcartprize]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=3571</guid>
+
+					<description><![CDATA[<p>Happy New Year, everyone! A little late in posting this, but the wonderful editors over at National Flash Fiction Day&#8217;s FlashFlood have nominated my piece &#8220;The Lies We Tell&#8221; for... <a href="./../../../im-a-pushcart-prize-nominee/index.html">Read more &#187;</a></p>
+<p>The post <a rel="nofollow" href="./../../../im-a-pushcart-prize-nominee/index.html">I&#8217;m a Pushcart Prize nominee!</a> appeared first on <a rel="nofollow" href="./../../../index.html">Mixed Bag</a>.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3571</post-id>	</item>
 	</channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 164/174 objects using memcached
+Object Caching 163/169 objects using memcached
 Page Caching using memcached 
 Lazy Loading (feed)
 Minified using disk
-Database Caching 3/12 queries in 0.010 seconds using disk
+Database Caching 3/10 queries in 0.006 seconds using disk
 
-Served from: www.hemas-mixedbag.com @ 2023-05-20 08:41:30 by W3 Total Cache
+Served from: www.hemas-mixedbag.com @ 2023-05-26 13:18:04 by W3 Total Cache
 -->

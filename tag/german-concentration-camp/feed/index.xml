@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://i0.wp.com/www.hemas-mixedbag.com/wp-content/uploads/2016/05/money-bag-2-256x256.png?fit=32%2C32</url>
@@ -65,11 +65,11 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 46/51 objects using memcached
+Object Caching 42/47 objects using memcached
 Page Caching using memcached 
 Lazy Loading (feed)
 Minified using disk
-Database Caching 3/9 queries in 0.004 seconds using disk
+Database Caching 3/9 queries in 0.003 seconds using disk
 
-Served from: www.hemas-mixedbag.com @ 2023-05-20 08:43:49 by W3 Total Cache
+Served from: www.hemas-mixedbag.com @ 2023-05-26 13:19:46 by W3 Total Cache
 -->
